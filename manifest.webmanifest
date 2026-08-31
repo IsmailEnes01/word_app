@@ -1,0 +1,33 @@
+{
+  "name": "Lügat",
+  "short_name": "Lügat",
+  "lang": "tr",
+  "dir": "ltr",
+  "description": "Osmanlı Türkçesi kelime çalışma uygulaması",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E4DCC5",
+  "theme_color": "#C0272D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
